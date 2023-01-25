@@ -1,2 +1,2 @@
 # Machine_Learning_Lab_Final
-It is Machine Learning(NLP) based model.
+Machine Learning & Data Mining Lab Project. It is a source code of NLP based model.
